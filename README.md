@@ -102,7 +102,8 @@ END
   <connectionStrings>
     <add name="StudentDBConnection" connectionString="Data Source=YOUR_SERVER_NAME;Initial Catalog=YOUR_DB_NAME;Integrated Security=True" />
   </connectionStrings>
-</configuration>```
+</configuration>
+```
       
 ## 4. 📄 Add RDLC File
 Place StudentReport.rdlc in your project root directory.
